@@ -1,0 +1,2 @@
+﻿# Elman and Jordan Networks
+

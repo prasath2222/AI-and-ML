@@ -1,0 +1,2 @@
+﻿# Bidirectional and Deep RNN
+
